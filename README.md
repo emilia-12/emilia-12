@@ -27,7 +27,7 @@ I became interested in Front-end because I have had human interaction for too lo
 - Italian - conversational
 - French - conversational
 
-### Pet peeve
+### Pet peeve 🐈
 
 - I can listen to a song on repeat for days, or, if I like it too much, for
   weeks
